@@ -17,7 +17,7 @@ Key features:
 
 ```bash
 # Clone the repository
-git clone git@github.com:doyinDev1/oss-tea-web33.git
+git clone git@github.com:doyinDev1/proof-of-contribution.git
 cd oss-tea-web33
 
 # Install dependencies
