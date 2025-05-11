@@ -1,0 +1,36 @@
+{
+  "name": "prrof-of-contribution",
+  "version": "1.0.0",
+  "description": "Implementation of Proof of Contribution for open source projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doyinDev1/proof-of-contribution.git"
+  },
+  "homepage": "https://github.com/doyinDev1/proof-of-contribution",
+  "keywords": [
+    "ethereum",
+    "smart contract",
+    "crafting",
+    "artisan"
+  ],
+  "author": "doyindev1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doyinDev1/proof-of-contribution/issues"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^4.21.2",
+    "graph-data-structure": "^1.15.0",
+    "lodash": "^4.17.21",
+    "web3": "^1.9.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
